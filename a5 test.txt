@@ -1,0 +1,121 @@
+{
+"name": "TEST",
+"image": "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
+"url": "https://yamcode.com/raw/test-58547",
+"groups": [
+https://www.dropbox.com/s/hsd3qt7qenigscs/FreeTVdd_S1_All.txt?dl=1
+
+{
+"name": "Ch 17 free%20channels)",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url":"https://gitlab.com/-/snippets/2494570/raw/main/free%20channels.m3u",
+"import": "false"
+},
+
+{
+"name": "Ch 16 allTV)",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url":"https://www.dropbox.com/s/hsd3qt7qenigscs/FreeTVdd_S1_All.txt?dl=1",
+"import": "false"
+},
+
+{
+"name": "Ch 15 📺เพลย์ลิสต์ ทีวี",
+ "image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
+"import": "true"},
+
+{
+"name": "Ch 14.1 มาดู มาฟัง ",
+ "image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://freenote.biz/raw/fqcnsbsfiw",
+"import": "true"},
+
+{
+"name": "Ch 14 ปันใจ ปันสุข",
+ "image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://freenote.biz/raw/egemkzfr5y",
+"import": "true"},
+
+{
+"name": "Ch 13 Movies",
+ "image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://freenote.biz/raw/khwy94yegf",
+"import": "true"},
+
+{
+"name"  : "Ch 12 หนังใหม่",
+"image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url"  : "https://pastebin.com/raw/nKMf5FxW",
+"import": "false"},
+
+{
+"name": "Ch 11 หนัง",
+"image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://pastebin.com/raw/J6H7a6AP",
+"import": "true"},
+
+{
+"name": "Ch 10 sport TV",
+"image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://freenote.biz/raw/l9uscgiutd",
+"import": "true"},
+
+{
+"name": "Ch 9 Sport Channel",
+"image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://pastebin.com/EhARAHhP",
+"import": "true"},
+
+{
+"name": "Ch 8 วันวานเอ็นเตอร์ไพรส์",
+"image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://bit.ly/3ocSxPJ",
+"import": "true"},
+
+{
+ "name":"Ch 7 หนังภาคต่อ",
+ "image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+ "url": "https://freenote.biz/index.php/raw/w01nQUR3R4",
+ "import": "true"},
+
+{
+"name":  "Ch 6 Slow Entertenment",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url":"https://freenote.biz/raw/rqmf2r9h46",
+"import": "true"},
+
+{
+"name": "Ch 5 PLAYIDTV",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url" : "https://freenote.biz/raw/tZNkKOQtHA",
+"import": "true"},
+
+{
+"name": "Ch 4 WE ARE ONE MEGAPL",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url" : "https://freenote.biz/raw/madjhshqv4",
+"import": "true"},
+
+{
+"name": "Ch 3 xtemus",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://playlist.xtemus.com",
+"import": "true"},
+
+{
+"name": "Ch 2 รายการภาพยนตร์ Wiseplay",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url": "https://bit.ly/sundoofree",
+"import": "true"},
+
+{
+"name": "Ch 1 ดิจิตอล TV)",
+"image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+"url":"https://dl.dropbox.com/scl/fi/nsvb6dc5lv9u0cjlnltkq/playidtvpl.m3u?rlkey=snv30njtwx66jy5b46b9fmrp5&amp;dl=0 ",
+"import": "false"
+},
+
+]}
+
+
