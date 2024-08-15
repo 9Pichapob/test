@@ -1,9 +1,8 @@
 {
 "name": "TEST",
 "image": "https://img2.pic.in.th/pic/Jake-Entertainment.jpeg",
-"url": "https://yamcode.com/raw/test-58547",
+"url": "",
 "groups": [
-https://www.dropbox.com/s/hsd3qt7qenigscs/FreeTVdd_S1_All.txt?dl=1
 
 {
 "name": "Ch 17 free%20channels)",
@@ -117,5 +116,3 @@ https://www.dropbox.com/s/hsd3qt7qenigscs/FreeTVdd_S1_All.txt?dl=1
 },
 
 ]}
-
-
