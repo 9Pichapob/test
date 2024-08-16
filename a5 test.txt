@@ -87,7 +87,7 @@
 {
 "name": "Ch 5 PLAYIDTV",
 "image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
-"url" : "https://freenote.biz/raw/tZNkKOQtHA",
+"url" : "https://freenote.biz/raw/AK0xPbTuqH",
 "import": "true"},
 
 {
