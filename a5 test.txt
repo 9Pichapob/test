@@ -99,13 +99,13 @@
 {
 "name": "Ch 3 xtemus",
 "image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
-"url": "https://playlist.xtemus.com",
+"url": "https://raw.githubusercontent.com/9Pichapob/test/main/PORN",
 "import": "true"},
 
 {
 "name": "Ch 2 รายการภาพยนตร์ Wiseplay",
 "image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
-"url": "https://bit.ly/sundoofree",
+"url": "https://raw.githubusercontent.com/9Pichapob/test/main/Adults%20Only",
 "import": "true"},
 
 {
