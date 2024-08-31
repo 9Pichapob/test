@@ -99,7 +99,7 @@
 {
 "name": "Ch 3 xtemus",
 "image":"https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
-"url":"https://yamcode.com/raw/jptv-81456",
+"url":"https://yamcode.com/raw/jaketv1-62",
 "import": "true"},
 
 {
