@@ -7,6 +7,12 @@ stations:
 [
 
 {
+"name":"Superhero Movie (2008) ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว",
+"image":"https://www.nung2hdd.com/wp-content/uploads/2015/01/superhero-movie1.jpg",
+"url":"https://master.streamhls.com/p2p/8613ae4373b486d2617c9d75dc9697ff",
+},
+
+{
 "name":"The Beekeeper (2024) นรกเรียกพ่อ",
 "image":"https://www.037hdmovie.com/wp-content/uploads/2024/01/The-Beekeeper-2024.jpg",
 "url":"https://main.24playerhd.com/m3u8/7fc607077bfede5fa60a0b64/7fc607077bfede5fa60a0b64168.m3u8",
@@ -1149,7 +1155,6 @@ stations:
 "referer": "https://fw4free.com/"
 },
 
-
 {
 "name":"Saving Bikini Bottom: The Sandy Cheeks Movie เราต้องปกป้องบิกินี่บอททอม: แซนดี้ ชีคส์ออกโรง (2024) NETFLIX",
 "info": "HD th 4.1",
@@ -1238,7 +1243,6 @@ stations:
 "referer": "https://live.lnwplayer.com/player/f72c1c28-6d67-4f85-bde4-d8e14dde17d2"
 },
 
-
     {
      "name": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
      "info": "HD th 7.3 เสียงไทยโรง",
@@ -1255,20 +1259,11 @@ stations:
 "referer": "https://fw4free.com/"
 },
 
-
 {
 "name":"ปิดเมืองล่า Pattaya Heat (2024)",
 "info": "HD th n/a",
 "image":"https://www.123-hd.com/wp-content/uploads/2024/07/Pattaya-Heat-2024-%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2-300x450.jpg",
 "url":"https://m1free.inwstream.com:1936/movie4/Pattaya_Heat_2024/Pattaya_Heat_2024_th_1080.mp4/chunk.m3u8",
-"referer": "https://fw4free.com/"
-},
-
-{
-"name":"Furiosa: A Mad Max Saga ฟูริโอซ่า: มหากาพย์ แมด แม็กซ์ (2024)",
-"info": "HD th 8.0",
-"image":"https://pics.filmaffinity.com/Furiosa_A_Mad_Max_Saga-111821720-large.jpg",
-"url":"https://m1free.inwstream.com:1936/movie4/Furiosa_A_Mad_Max_Saga_2024/Furiosa_A_Mad_Max_Saga_2024_th_1080.mp4/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
 
@@ -1404,6 +1399,7 @@ stations:
 "url":"https://m1free.inwstream.com:1936/movie3/The_Heartbreak_Agency_2024/The_Heartbreak_Agency_2024_th_1080.mp4/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
+
 {
 "name":"FIVE BLIND DATES (2024) ห้าเดทวุ่น ลุ้นพบรัก",
 "info": "HD th 6.2",
@@ -1461,7 +1457,6 @@ stations:
      "referer": "https://fw4free.com/"
     },
     
-
 {
 "name":"Rafa Marquez: El Capitan ราฟา มาร์เกซ: ยอดกัปตัน (2024) NETFLIX บรรยายไทย",
 "info": "HD subth n/a",
@@ -1692,7 +1687,6 @@ stations:
 "playInNatPlayer" :  "true"
 },
 
-
 {
 "name":"The Parades เดอะ พาเหรด (2024) พากย์ไทย-เต็มเรื่อง",
 "info": "HD th 7.0",
@@ -1787,14 +1781,6 @@ stations:
 "info": "HD th 6.2",
 "image":"https://img.inwiptv.net/postor/2024011222571446sp1Z9b2PPTgCMyA87g9aTLUXi.jpg",
 "url":"https://m1free.inwstream.com:1936/movie3/Lift_2024/Lift_2024_th_1080.mp4/chunk.m3u8",
-"referer": "https://fw4free.com/"
-},
-
-{
-"name":"The Beekeeper (2024) นรกเรียกพ่อ",
-"info": "HD th 6.8",
-"image":"https://www.123-hd.com/wp-content/uploads/2024/01/The-Beekeeper-2024-%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B9%88%E0%B8%AD-300x450.jpg",
-"url":"https://m1free.inwstream.com:1936/movie4/The_Beekeeper_2024/The_Beekeeper_2024_th_1080.mp4/chunk.m3u8",
 "referer": "https://fw4free.com/"
 },
 
@@ -1976,15 +1962,6 @@ stations:
     },
 
 {
-"name":"End New Movie 2024",
-"info": "",
-"image":"https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
-"url":"",
-"referer": "https://fw4free.com/"
-},
-
-
-{
 "name":"สัประยุทธ์ทะลุฟ้า 3: กำจัดสิ่งชั่วร้าย Fights Break Sphere 3 พากย์ไทย รอ..",
 "info": "HD th n/a",
 "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJJWYWicTKbbN9QmAOvJGdIb0I7.jpg",
@@ -1992,6 +1969,13 @@ stations:
 "referer": "https://fw4free.com/"
 },
 
+{
+"name":"End New Movie 2024",
+"info": "",
+"image":"https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url":"",
+"referer": "https://fw4free.com/"
+},
 
 {
 "name":"",
