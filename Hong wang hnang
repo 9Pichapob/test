@@ -16,7 +16,7 @@ stations:
 {
 "name":"Superhero Movie (2008) ไอ้แมงปอแมน ฮีโร่ซุปเปอร์รั่ว",
 "image":"https://www.nung2hdd.com/wp-content/uploads/2015/01/superhero-movie1.jpg",
-"url":"https://master.streamhls.com/p2p/8613ae4373b486d2617c9d75dc9697ff",
+"url":"https://master.streamhls.com/p2p/8613ae4373b486d2617c9d75dc9697ff"
 },
 
 {
@@ -1951,7 +1951,6 @@ stations:
      "referer": "https://main.24playerhd.com/"
     },
 
-
 {
 "name":"Beverly Hills Cop Axel F (2024) โปลิศจับตำรวจ เอ็กเซล เอฟ",
 "info": "HD th 8.7",
@@ -1972,14 +1971,6 @@ stations:
 "name":"สัประยุทธ์ทะลุฟ้า 3: กำจัดสิ่งชั่วร้าย Fights Break Sphere 3 พากย์ไทย รอ..",
 "info": "HD th n/a",
 "image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJJWYWicTKbbN9QmAOvJGdIb0I7.jpg",
-"url":"",
-"referer": "https://fw4free.com/"
-},
-
-{
-"name":"End New Movie 2024",
-"info": "",
-"image":"https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
 "url":"",
 "referer": "https://fw4free.com/"
 },
