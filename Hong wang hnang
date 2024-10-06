@@ -27,6 +27,13 @@ stations:
 },
 
 {
+"name":"The Devil’s Own (1997) ภารกิจล่าหักเหลี่ยม",
+"image":"https://fwiptv.tv/images/movie/KBiqaHLi5gIdoGzo6uy5LxWCJoW0uJR.jpg",
+"url":"https://live.lnwplayer.com/hls/877ade37-1997-46d2-9772-b00d3e30962b/index.m3u8",
+"referer": "https://fwiptv.tv/"
+},
+
+{
 "name":"Miss Peregrine (2016) บ้านเพริกริน เด็กสุด",
 "image":"https://fwiptv.tv/images/movie/tkLeSHQSMJt1sxoZ0QNTUSQmty6wVni.jpg",
 "url":"https://live.lnwplayer.com/hls/be135aff-0510-4434-8c79-96f3234bd1d4/index.m3u8",
