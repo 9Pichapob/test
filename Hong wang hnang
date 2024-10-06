@@ -27,6 +27,13 @@ stations:
 },
 
 {
+"name":"Miss Peregrine (2016) บ้านเพริกริน เด็กสุด",
+"image":"https://fwiptv.tv/images/movie/tkLeSHQSMJt1sxoZ0QNTUSQmty6wVni.jpg",
+"url":"https://live.lnwplayer.com/hls/be135aff-0510-4434-8c79-96f3234bd1d4/index.m3u8",
+"referer": "https://fwiptv.tv/"
+},
+
+{
 "name":"รัก ลวง ฆ่า (Strange Darling) 2024",
 "image":"https://orll.cc/XDQi4",
 "url":"https://hls.enjoy24cdn.com/cdn/hls/98af1d142df7d8b91e87aa3d0dcd15b7/2/index-v1-a1.txt",
